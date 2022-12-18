@@ -13,4 +13,4 @@ Then you'll want to edit the main code to do your own text stuff. My file is in 
 
 5. If you hit an error or get stuff look it up in tutorials and search the Bela Forum. Every time I had an issue or thought something was unachievable there was simple steps to get past it. Mainly compiling ipoke for me!
 
-Finally, I'm not a software developer / coding expert, or Bela expert (only had it a few weeks) so there will be better / more efficient ways of doing all this no doubt. Purpose is to demonstrate the possible, rather than this being an exemplar.
+Finally, I'm not a software developer / coding expert, or Bela expert (only had it a few weeks) so there will be better / more efficient ways of doing all this no doubt. Purpose is to demonstrate the possible, rather than this being an exemplar. And I'm still learning, fixing and updating all this so it's not a finished product but it makes noises which is the important thing!
