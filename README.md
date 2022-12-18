@@ -12,3 +12,5 @@ Then you'll want to edit the main code to do your own text stuff. My file is in 
 4. Make / use patches then becomes a matter of connecting knob values to things in the patch. Some patches then take literally minutes to do e.g. multipack. Whereas others where you need to compile an external or something weird can still take a bit longer!
 
 5. If you hit an error or get stuff look it up in tutorials and search the Bela Forum. Every time I had an issue or thought something was unachievable there was simple steps to get past it. Mainly compiling ipoke for me!
+
+Finally, I'm not a software developer / coding expert, or Bela expert (only had it a few weeks) so there will be better / more efficient ways of doing all this no doubt. Purpose is to demonstrate the possible, rather than this being an exemplar.
