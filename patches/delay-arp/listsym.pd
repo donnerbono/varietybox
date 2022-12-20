@@ -1,0 +1,17 @@
+#N canvas 160 160 450 300 12;
+#X obj 85 16 inlet;
+#X msg 86 54 symbol \$1^;
+#X obj 95 87 list fromsymbol;
+#X obj 174 129 list length;
+#X obj 172 156 - 1;
+#X obj 95 189 list split 2;
+#X obj 91 229 list tosymbol;
+#X obj 73 272 outlet;
+#X connect 0 0 1 0;
+#X connect 1 0 2 0;
+#X connect 2 0 3 0;
+#X connect 2 0 5 0;
+#X connect 3 0 4 0;
+#X connect 4 0 5 1;
+#X connect 5 0 6 0;
+#X connect 6 0 7 0;

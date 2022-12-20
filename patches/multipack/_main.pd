@@ -1,0 +1,15 @@
+#N canvas 1036 71 739 827 12;
+#X obj 93 738 dac~ 1 2;
+#X obj 97 72 adc~ 1 2;
+#X obj 117 140 chorus;
+#X obj 122 262 phasor;
+#X obj 101 384 stereo-delay;
+#X obj 50 11 switchboard;
+#X connect 1 0 2 0;
+#X connect 1 1 2 0;
+#X connect 2 0 3 0;
+#X connect 2 1 3 0;
+#X connect 3 0 4 0;
+#X connect 3 1 4 0;
+#X connect 4 0 0 0;
+#X connect 4 1 0 1;
