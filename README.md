@@ -1,5 +1,6 @@
 # varietybox
-Bela Mini small desktop effects unit
+Bela Mini small desktop effects unit does this:
+https://youtu.be/E0tX76f69c4
 
 1. Get a box, or a breadboard and put some stuff in it or connect it up. See fritzing diagram.
 
